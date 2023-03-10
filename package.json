@@ -8,5 +8,6 @@
     ]
   },
   "author": "Davyd Souza <davyd.eduardo.souza@hotmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "private": true
 }
