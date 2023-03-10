@@ -9,5 +9,8 @@
   },
   "author": "Davyd Souza <davyd.eduardo.souza@hotmail.com>",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  }
 }
