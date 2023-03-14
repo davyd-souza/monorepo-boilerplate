@@ -7,7 +7,8 @@
   },
   "workspaces": {
     "packages": [
-      "packages/*"
+      "packages/*",
+      "packages/shared/*"
     ]
   },
   "author": "Davyd Souza <davyd.eduardo.souza@hotmail.com>",
